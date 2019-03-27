@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3140578585
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: castle
+      Dependencies: {}
